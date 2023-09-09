@@ -31,4 +31,3 @@ class MainActivityEspressoTest {
             .check(ViewAssertions.matches(ViewMatchers.withText("Los textos son diferentes.")))
     }
 }
-}

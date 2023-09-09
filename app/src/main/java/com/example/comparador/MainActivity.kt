@@ -8,6 +8,7 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 
+
 class MainActivity : AppCompatActivity() {
     private var editText1: EditText? = null
     private var editText2: EditText? = null
